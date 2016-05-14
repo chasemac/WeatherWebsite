@@ -1,4 +1,9 @@
-# ReduxSimpleStarter
+# WeatherApp
+
+This was created in a Udemy Course. The info and initial setup files are below:
+
+
+## ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
