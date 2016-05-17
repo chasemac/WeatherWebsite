@@ -2,6 +2,10 @@
 
 This was created in a Udemy Course. The info and initial setup files are below:
 
+### For this project I used the following tools:
+
+http://openweathermap.org/forecast5
+https://github.com/borisyankov/react-sparklines
 
 ## ReduxSimpleStarter
 
