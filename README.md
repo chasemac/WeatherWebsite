@@ -7,6 +7,7 @@ This was created in a Udemy Course. The info and initial setup files are below:
 ```
 > http://openweathermap.org/forecast5
 > https://github.com/borisyankov/react-sparklines
+> https://github.com/tomchentw/react-google-maps
 ```
 
 ## ReduxSimpleStarter
